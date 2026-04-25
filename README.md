@@ -1,16 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on  
-- A healthcare web app using React.js & Django  
-🌱 I’m currently learning  
-- Python, Java, and Data Structures (BST)  
-👯 I’m looking to collaborate on  
-- Beginner-friendly web development projects  
-🤝 I’m looking for help with  
-- Problem-solving and Data Structures & Algorithms  
-💬 Ask me about  
-- Basic programming & college projects  
-⚡ Fun fact  
-- I learn better by building projects than just theory  
+🔭 I’m currently working on - A healthcare web app using React.js & Django  
+🌱 I’m currently learning - Python, Java, and Data Structures (BST)  
+👯 I’m looking to collaborate on - Beginner-friendly web development projects  
+🤝 I’m looking for help with - Problem-solving and Data Structures & Algorithms  
+💬 Ask me about - Basic programming & college projects  
+⚡ Fun fact - I learn better by building projects than just theory  
 
 
 ## 🌐 Socials:
